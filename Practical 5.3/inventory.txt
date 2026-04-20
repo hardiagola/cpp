@@ -1,0 +1,2 @@
+bread 5 200
+ketchup 10 150
