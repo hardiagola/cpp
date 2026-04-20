@@ -37,5 +37,6 @@ int main()
     int x= super_digit(s);
 
     cout<<"The super digit is:"<<x;
+    cout<<"\nHardi Agola-25CE002\n";
     return 0;
 }
